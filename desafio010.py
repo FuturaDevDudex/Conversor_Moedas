@@ -1,4 +1,4 @@
-carteira = int(input('Quando de dinheiro, você tem na carteira? '))
+carteira = float(input('Quanto de dinheiro, você tem na carteira? '))
 
 dolar = carteira / 5.97
 
